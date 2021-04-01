@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: Hexo-demo #网站标题
+subtitle: hexo is simple and easy to study #网站副标题
+description: this is hexo-demo #网栈描述
+author: pomy #你的名字
